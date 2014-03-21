@@ -3,6 +3,7 @@
 	<name>SE2</name>
 	<comment></comment>
 	<projects>
+		<project>SoftwareEngineering2</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
